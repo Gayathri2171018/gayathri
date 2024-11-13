@@ -42,6 +42,7 @@
 
     .home-img {
         display: none;
+        width:15%;
        
     }
 
@@ -67,6 +68,7 @@
         width: auto;
         border-radius: 50%;
         border-color: #0ef;
+        padding-right: 5%;
         
     }
 
