@@ -43,7 +43,7 @@
     .home-img {
         display: none;
         width:15%;
-        padding-left:10%;
+        padding-left:15%;
        
     }
 
@@ -67,7 +67,7 @@
     .about div img {
         height: 50px;
         width: auto;
-        border-radius: 50%;
+        border-radius: 60%;
         border-color: #0ef;
         padding-right: 15%;
         
