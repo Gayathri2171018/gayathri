@@ -41,10 +41,7 @@
     }
 
     .home-img {
-        height: 500px;
-        width: auto;
-        border-radius: 50%;
-        border-color: #0ef;
+        display: none;
        
     }
 
@@ -66,7 +63,7 @@
     }
 
     .about div img {
-        height: 500px;
+        height: 50px;
         width: auto;
         border-radius: 50%;
         border-color: #0ef;
